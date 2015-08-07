@@ -52,7 +52,10 @@ See Screenshots tab for a short visual tutorial.
 
 == Screenshots ==
 
-This is an example of how the Entries Inventory Management works.
+1. Validate field upon form submission and make sure we don't book more entries than available screenshot-1.(png|jpg|jpeg|gif). 
+2. Display a friendly message upon form display if no place is available screenshot-2.(png|jpg|jpeg|gif). 
+3. Configure the inventory field screenshot-3.(png|jpg|jpeg|gif). 
+4. Configure the entry limits screenshot-4.(png|jpg|jpeg|gif). 
 
 == Changelog ==
 
