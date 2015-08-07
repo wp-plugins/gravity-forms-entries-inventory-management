@@ -36,11 +36,18 @@ This plugin is compatible with:
 
 == Installation ==
 
+See screenshot for a short visual tutorial.
+
 1. Copy the `gravity-entry-inventory-management` folder into your `wp-content/plugins` folder
 2. Activate the Gravity Forms Entries Inventory Management plugin via the plugins admin page
 3. Create a new Gravity Form 
 4. Add a new input field on the form
-5. Go to the Field Appearence tab and add 'gfinventory' (without single quotes) to the Custom Css Class field
+5. Go to the Field Appearence tab and add 'gfinventory' (without single quotes) to the Custom Css Class field. Save the form.
+6. Go to Form Settings (NOT Global Gravity Form Settings) and
+* Check "Enable entry limit"
+* Set your limit for this form in "Number of Entries" field
+* Set yor message in "Entry Limit Reached Message" field.
+* Save settings
 
 == Screenshots ==
 
